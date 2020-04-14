@@ -1,0 +1,24 @@
+{
+  "name": "paginas-favoritas-api",
+  "version": "1.0.0",
+  "description": "proyecto para un api de páginas favoritas",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JsonVM/practicaApi.git"
+  },
+  "author": "JsonVM",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JsonVM/practicaApi/issues"
+  },
+  "homepage": "https://github.com/JsonVM/practicaApi#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.3",
+    "pg": "^8.0.2"
+  }
+}
